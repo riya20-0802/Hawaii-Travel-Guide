@@ -3,20 +3,18 @@ The all in one Travel Guide to Hawaii!!
 
 # 🌺 Discover Hawaii – Travel & Exploration Website
 
-Welcome to the **Discover Hawaii** website repository! This is a multi-page web project built to showcase stunning travel destinations, iconic local food spots, and essential travel tips for the Hawaiian Islands.
+Welcome to the Discover Hawaii website repository! 
 
-## ✨ Features
+All About My Project:
 
-* **Multi-Page Layout:** Seamless navigation between Home, Attractions, Local Food, and Travel Guide pages.
-* **Curated Attractions:** Detailed guides on iconic spots like the Road to Hana, Nā Pali Coast, Hawaiʻi Volcanoes National Park, and Haleakalā.
-* **Aesthetic Local Eats:** Highlights of unique island treats, including vegan soft serve in coconut shells, rainbow shave ice, taro donuts, and acai bowls.
-* **Comprehensive Travel Guide:** Essential advice on the best time to visit, packing tips, transportation hacks, eco-friendly reef-safe practices, and Hawaiian cultural traditions.
-* **Interactive Elements:** Embedded Google Maps and responsive design layouts.
+I made this project because Hawaii is my Dream Destination!
+- Built this website with HTML and CSS
 
-## 📁 Project Structure
+Here is what I included in my project:
+- index.html - The Home Page that introduces Hawaii and provides an interactive map
+- attractions.html - The top places to visit, activities to do, and the most aesthetic food you definetely don't want to miss!
+- guide.html - Includes the packing list, best time to visit, and travel tips to ensure your trip goes smoothly!
+- style.css - Main stylesheet to make everything organized and pretty!
 
-```text
-├── index.html          # Main landing page introducing the islands
-├── attractions.html    # Detailed list of top must-visit locations, parks, and aesthetic local food stops
-├── guide.html          # Travel tips, packing guides, and cultural etiquette; everything you need to survive your trip to Hawaii!
-└── style.css           # Custom styling and layout design
+- To run this website, open the demo link (https://riya20-0802.github.io/Hawaii-Travel-Guide/) in any web browser!
+- I hope you enjoy!
